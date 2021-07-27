@@ -1,0 +1,7 @@
+bootstrap-*.zip*
+tools/test-harness/vendor
+tools/pgmonitor/
+yq
+/vendor/
+licenses/*
+!licenses/LICENSE.txt
